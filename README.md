@@ -1,6 +1,6 @@
 # Grupo3-TrabajoFinal
 
-En el presente repositorio se encuentra el RMD completo con el analisis univariado y bivariado de las siguintes variables:
+En el presente repositorio se encuentra el RMD completo del analisis univariado y bivariado de las siguintes variables:
 Variable Dependiente: Índice de Corrupción - Isaura Sánchez
 Variables Independientes:
 Variable GINI - Isaura Sánchez
@@ -11,5 +11,5 @@ Variable Gasto actual en salud - Mayra Vargas
 Variable Tasa de alfabetización (adultos) - Mayra Vargas
 Variable Efectividad - Luis Torres
 Variable Desempleo - Luis Torres
-
+Además se adjunta el documento con el análisis respectivo.
 Gracias.
