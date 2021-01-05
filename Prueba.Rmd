@@ -1,0 +1,13 @@
+# Prueba
+# Hola
+```{r}
+library(magrittr)
+library(dplyr)
+library(cluster)
+library(plyr)
+library(knitr)
+library(kableExtra)
+library(factoextra)
+library(ggrepel)
+```
+
